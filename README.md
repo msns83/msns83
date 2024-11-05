@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 I'm currently studying Computer Engineering at the University of Tehran.
+- 📫 How to reach me ?! mailto:majid.sadeghinejad@outlook.com
