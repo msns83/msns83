@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 📚 I'm currently studying Computer Engineering at the University of Tehran.
-- 📫 How to reach me ?! mailto:majid.sadeghinejad@outlook.com
+- 📫 How to reach me ?! majid.sadeghinejad@outlook.com
